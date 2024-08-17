@@ -64,4 +64,4 @@ This project is licensed under the MIT License. Please look at the [LICENSE](./L
 ## 💬 Contact
 
 - **GitHub:** [diaabashtawi](https://github.com/diaabashtawi)
-- **Email:** your.email@example.com
+- **Email:** diaabashtawi@gmail.com
