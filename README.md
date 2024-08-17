@@ -22,23 +22,7 @@ Follow these steps to get a local copy up and running:
     git clone https://github.com/diaabashtawi/MERN-Auth-Project.git
     ```
 
-2. **Install dependencies:**
-
-    - For the server:
-
-        ```bash
-        cd backend
-        npm install
-        ```
-
-    - For the client:
-
-        ```bash
-        cd frontend
-        npm install
-        ```
-
-3. **Environment variables:**
+2. **Environment variables:**
 
     Create a `.env` file in the `backend` directory and configure the following:
 
@@ -47,20 +31,18 @@ Follow these steps to get a local copy up and running:
     JWT_SECRET=your_jwt_secret
     ```
 
-4. **Run the application:**
+3. **Run the application:**
 
-    - Start the backend server:
+    - Run this app locally:
 
         ```bash
-        cd backend
-        npm run dev
+        npm run build
         ```
 
-    - Start the frontend:
+    - Start the app:
 
         ```bash
-        cd frontend
-        npm start
+        npm run start
         ```
 
     The application will be running on `http://localhost:3000`.
@@ -73,11 +55,11 @@ Follow these steps to get a local copy up and running:
 
 ## 👥 Contributing
 
-Feel free to fork this repository and submit pull requests. Contributions are welcome! 🙌
+You can fix this repository and submit pull requests. Contributions are welcome! 🙌
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. Please look at the [LICENSE](./LICENSE) file for details.
 
 ## 💬 Contact
 
