@@ -45,7 +45,7 @@ Follow these steps to get a local copy up and running:
         npm run start
         ```
 
-    The application will be running on `http://localhost:3000`.
+    The application will be running on `http://localhost:5000`.
 
 ## 🧩 Project Structure
 
